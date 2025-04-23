@@ -1,4 +1,4 @@
-# meu primeiro repositorio 
+# meu primeiro repo
 eba
 
 ## autor
